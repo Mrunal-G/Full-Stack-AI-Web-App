@@ -3,6 +3,16 @@
 1. ReactJS
 2. MongoDB DataBase
 
+## Page 1
+![page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
+
+## Page 2
+![page 2](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p2.png)
+
+
+
+
+
 <!--
 This full-stack application stores AI generated images to the database. Of course, one can break the picture into bytes or bits, etc, and store the same but this is a horrible practice and is far too difficult in practice. The other way of doing this is by uploading the picture to a server or a folder, generating a public URL for the upload from there, and storing this URL into the database.
 
@@ -12,7 +22,4 @@ We used Cloudinary for this application which provides ample storage of nearly 2
 
 --!
 
-![page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
 
-
-![page 2](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p2.png)

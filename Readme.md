@@ -12,7 +12,7 @@ We used Cloudinary for this application which provides ample storage of nearly 2
 
 --!
 
-[page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
+![page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
 
 
-[page 2](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p2.png)
+![page 2](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p2.png)

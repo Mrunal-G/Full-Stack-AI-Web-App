@@ -11,3 +11,8 @@ In order to do so, we need a third party or in-house server or similar services 
 We used Cloudinary for this application which provides ample storage of nearly 25 GB in the free plan and many other services.
 
 --!
+
+[page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
+
+
+[page 2](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p2.png)

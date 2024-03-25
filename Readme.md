@@ -1,7 +1,9 @@
-# AI (OpenAI DALL-E API) ART gallery social medial full-stack web app 
+# AI (OpenAI DALL-E API) ART gallery social medial full-stack web app  (MERN stack)
 
 1. ReactJS
 2. MongoDB DataBase
+3. NodeJs
+4. ExpressJs
 
 ## Page 1
 ![page 1](https://github.com/Mrunal-G/Full-Stack-AI-Web-App/blob/main/img/p1.png)
